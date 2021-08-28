@@ -1,0 +1,3 @@
+/home/xnpst/CLionProjects/operating_systems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xnpst/CLionProjects/operating_systems/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xnpst/CLionProjects/operating_systems/cmake-build-debug/CMakeFiles/operating_systems.dir
